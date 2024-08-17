@@ -31,3 +31,6 @@ html_css_files = [
     'custom.css',
 ]
 
+html_js_files = [
+    'scripts.js',
+]
