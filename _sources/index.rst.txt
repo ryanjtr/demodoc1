@@ -1,12 +1,4 @@
 
-.. raw:: html
-
-
-      <div class="navbar">
-         <a href="{{ pathto('index.html', 1) }}">Home</a>
-         <a href="{{ pathto('about.html', 1) }}">About</a>
-         <a href="{{ pathto('contact.html', 1) }}">Contact</a>
-      </div>
 
 
 Welcome to Ryan's documentation!
@@ -19,5 +11,12 @@ Welcome to Ryan's documentation!
    sphinx
    github
 
+.. raw:: html
+
+   <div style="text-align: left;">
+       <a href="https://your-donation-link" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#FFDD57; color:black; text-decoration:none; border-radius:5px;">
+           Donate
+       </a>
+   </div>
 
 Đây là bản demo đầu tiên về cách tạo document với sphinx
